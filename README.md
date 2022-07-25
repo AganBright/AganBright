@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AganBright
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript, CSS,HTML.
+- 👀 I’m a Web Developer.
+- 🌱 I’m currently learning Next.js, React & Express.js.
 - 💞️ I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me Email:aganbright@gmail.com
 
