@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AganBright
+- 👋 Hi, I’m Agan Bright
 - 👀 I’m a Web Developer.
 - 🌱 I’m currently learning Next.js, React & Express.js.
 - 💞️ I’m looking to collaborate on Open Source projects.
