@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Agan Bright
-- 👀 I’m a Web Developer.
-- 🌱 I’m currently learning Next.js, React & Express.js.
+Machine Learning Engineer 
 - 💞️ I’m looking to collaborate on Open Source projects.
-- 📫 How to reach me Email:aganbright@gmail.com
+- 📫 How to reach me Email:aganbright@yahoo.com
 
 <!---
 AganBright/AganBright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
